@@ -1,9 +1,9 @@
 class Tt < Formula
   desc ""
   homepage ""
-  url "https://github.com/bgetsug/tt/releases/download/0.8.7/tt_0.8.7_macOS_x86_64.tar.gz"
-  version "0.8.7"
-  sha256 "08ff52e7a48e536822274738fc9cfde25505fac0b1a5e740199395c44db1ddac"
+  url "https://github.com/bgetsug/tt/releases/download/0.8.8/tt_0.8.8_macOS_x86_64.tar.gz"
+  version "0.8.8"
+  sha256 "8be7ce1176c5929f28552d507f0282b3f1da4ebc790e5990aeaa07c3ad58af56"
 
   def install
     bin.install "tt"
